@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DivEmpty {
-
+//test
     private static final String SITEMAP_URL = "https://www.bancatransilvania.ro/sitemap.xml";
 
     public static void main(String[] args) {
